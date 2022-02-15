@@ -1,2 +1,3 @@
 /config.env
 /.gitignore
+/node_modules
